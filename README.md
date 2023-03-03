@@ -4,7 +4,7 @@ This is a Python program that generates a color palette for an image selected by
 ## Installation
 1. Clone this repository to your local machine.
     ```
-    git clone git@github.com:KenAtopos/Python_portfolio_11.git
+    git clone https://github.com/KenAtopos/Python_portfolio_11.git
     ```
 ## Usage
 1. Run the program:
